@@ -12,7 +12,7 @@
   <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://media-exp1.licdn.com/dms/image/C5603AQFcK8RcH7h34w/profile-displayphoto-shrink_200_200/0/1629330672307?e=1667433600&v=beta&t=8pw5M7GMTEK80B-4X5cWupzCoSywmCvfRiIMP1X53tc)">
+  <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQFcK8RcH7h34w/profile-displayphoto-shrink_200_200/0/1629330672307?e=1667433600&v=beta&t=8pw5M7GMTEK80B-4X5cWupzCoSywmCvfRiIMP1X53tc">
 </div>
   
   ##
