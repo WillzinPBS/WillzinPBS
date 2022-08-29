@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/WillzinPBS">
   <img height="180em" width='42%' src="https://github-readme-stats.vercel.app/api?username=WillzinPBS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillzinPBS&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillzinPBS&layout=compact&hide_border=true&title_color=00bfbf&bg_color=0d1117&theme=tokyonight" />
 </div>
   
 <div style="display: inline_block"><br>
