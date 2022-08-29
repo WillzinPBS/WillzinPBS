@@ -6,10 +6,11 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillzinPBS&layout=compact&hide_border=true&title_color=00bfbf&theme=tokyonight" />
 </div>
 
-### Main skills:
+## Main skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <b>Python<b/>
+  <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <b>C#<b/>
+  
   <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/74713986?v=4">
 </div>
   
