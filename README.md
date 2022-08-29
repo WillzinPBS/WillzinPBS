@@ -1,10 +1,12 @@
-## Opa Willian aqui, programador buscando aprender!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Willian+Brito;I'm+19+years+old;I+am+from+Campo+Grande,+RJ;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/WillzinPBS">
   <img height="180em" width='42%' src="https://github-readme-stats.vercel.app/api?username=WillzinPBS&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillzinPBS&layout=compact&hide_border=true&title_color=00bfbf&theme=tokyonight" />
 </div>
-  
+
+### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
