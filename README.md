@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <b>C#<b/>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <b>Python<b/>
-  <img align="center" alt="Will-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql-server/sql-server-original.svg"><b>SQL Server<b/>
+  <img align="center" alt="Will-SQL" height="30" width="40" src="https://raw.githubusercontent.com/WillzinPBS/WillzinPBS/bda209a33f51e91a32fb8353027c8cc699d9a1b6/icons/microsoftsqlserver-plain.svg"><b>SQL Server<b/>
   
   <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/74713986?v=4">
 </div>
