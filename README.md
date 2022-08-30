@@ -3,13 +3,14 @@
 <div align="center">
   <a href="https://github.com/WillzinPBS">
   <img height="180em" width='42%' src="https://github-readme-stats.vercel.app/api?username=WillzinPBS&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillzinPBS&layout=compact&hide_border=true&title_color=00bfbf&theme=tokyonight" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillzinPBS&layout=compact&hide_border=true&title_color=00bfbf&theme=tokyonight"/>
 </div>
 
 ## Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <b>C#<b/>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <b>Python<b/>
+  <img align="center" alt="Will-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql-server/sql-server-original.svg"><b>SQL Server<b/>
   
   <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/74713986?v=4">
 </div>
